@@ -1,0 +1,12 @@
+mkdir Part-a   :(Use the mkdir command to create one or more directories specified by the Directory parameter.)
+cd part-a      :The CD command is used to change directories, which means it moves the command prompt into a different folder.
+git --version  : You can check your current version of Git by running the git --version command in a terminal 
+            :then make a repository on github then go to vs code then click on mkdir file then create 1 .txt file then save 
+git init       :
+git add .      :
+git status     :
+git remote add origin " paste http url from github repository link"
+git commit -m "first commit"
+git status
+git push -u origin master
+
